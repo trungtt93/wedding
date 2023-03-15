@@ -231,12 +231,12 @@ img {
 }
 @media (max-width: 991px) {
   .section-padding {
-    padding: 90px 0;
+    padding: 30px 0;
   }
 }
 @media (max-width: 767px) {
   .section-padding {
-    padding: 80px 0;
+    padding: 20px 0;
   }
 }
 
@@ -3886,7 +3886,7 @@ img {
 }
 @media (max-width: 767px) {
   .static-hero-s2 {
-    height: 700px;
+    height: auto;
   }
 }
 .static-hero-s2 .hero-inner {
@@ -4161,9 +4161,7 @@ img {
   }
 }
 @media (max-width: 767px) {
-  .wpo-hero-style-3 .wpo-wedding-date #clock > div:last-child {
-    right: 0;
-  }
+
 }
 @media (max-width: 1399px) {
   .wpo-hero-style-3 .wpo-wedding-date #clock div + div {
@@ -6291,10 +6289,7 @@ static-hero-s4
     padding-bottom: 15px;
     height: 110px;
   }
-  .wpo-wedding-date #clock > div:last-child {
-    position: relative;
-    right: -70px;
-  }
+  
 }
 .wpo-wedding-date #clock > div > div {
   display: table-cell;
@@ -6927,7 +6922,7 @@ static-hero-s4
 }
 @media (max-width: 767px) {
   .wpo-event-section {
-    padding-bottom: 70px;
+    padding-bottom: 20px;
   }
 }
 .wpo-event-section .wpo-event-wrap .wpo-event-item {
@@ -14990,7 +14985,18 @@ static-hero-s4
 }
 
 @media (max-width: 767px) {
-  .align-items-center{
-    background: url("../images/slider/123.png") no-repeat;
+  .mb-img{
+    top: 140px;
+    position: absolute;
+    z-index: -9;
+  }
+  .hero-container .container-fluid{
+    margin-top: 500px;
+  }
+  .wpo-cta-section-s3 {
+    background: url(../images/wedding/21.jpg) no-repeat 38% 16%;
+  }
+  .box{
+
   }
 }
