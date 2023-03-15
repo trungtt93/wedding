@@ -6289,7 +6289,7 @@ static-hero-s4
     padding-bottom: 15px;
     height: 110px;
   }
-  
+
 }
 .wpo-wedding-date #clock > div > div {
   display: table-cell;
@@ -14989,6 +14989,7 @@ static-hero-s4
     top: 140px;
     position: absolute;
     z-index: -9;
+    display: block;
   }
   .hero-container .container-fluid{
     margin-top: 500px;
@@ -14999,4 +15000,7 @@ static-hero-s4
   .box{
 
   }
+}
+.mb-img{
+  display: none;
 }
