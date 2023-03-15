@@ -14989,7 +14989,7 @@ static-hero-s4
     top: 140px;
     position: absolute;
     z-index: -9;
-    display: block;
+    display: block !important;
   }
   .hero-container .container-fluid{
     margin-top: 500px;
