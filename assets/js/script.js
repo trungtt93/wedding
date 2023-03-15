@@ -44,7 +44,7 @@ function _0x5b9a() {
         "slideInn",
         ".header-search-form",
         "scroll",
-        "<div\x20class=\x22box\x22><div><div\x20class=\x22time\x22>%H</div>\x20<span>Hours</span>\x20</div></div>",
+        "<div\x20class=\x22box\x22><div><div\x20class=\x22time\x22>%H</div>\x20<span>Giờ</span>\x20</div></div>",
         ".swiper-button-next",
         "mail-contact.php",
         "isotope",
@@ -203,7 +203,7 @@ function _0x5b9a() {
         ".static-hero-slide-img",
         "position",
         "POST",
-        "<div\x20class=\x22box\x22><div><div\x20class=\x22time\x22>%D</div>\x20<span>Days</span>\x20</div></div>",
+        "<div\x20class=\x22box\x22><div><div\x20class=\x22time\x22>%D</div>\x20<span>Ngày</span>\x20</div></div>",
         "appear",
         ".swiper-button-prev",
         "current-menu-item",
@@ -222,7 +222,7 @@ function _0x5b9a() {
         "#Button5",
         "Button12",
         ".sub-menu",
-        "<div\x20class=\x22box\x22><div><div\x20class=\x22time\x22>%S</div>\x20<span>Secs</span>\x20</div></div>",
+        "<div\x20class=\x22box\x22><div><div\x20class=\x22time\x22>%S</div>\x20<span>Giây</span>\x20</div></div>",
         "<i\x20class=\x22fi\x20ti-arrow-right\x22></i>",
         "load",
         "bg-image",
@@ -715,10 +715,10 @@ function _0x2f59(_0xebe2cf, _0x5bc14d) {
                 _0x4d56df = _0x424e87(this)[_0x3ce881(0x21f)](
                     _0x57a66c["strftime"](
                         "" +
-                        "<div\x20class=\x22box\x22><div><div\x20class=\x22time\x22>%m</div>\x20<span>Month</span>\x20</div></div>" +
+
                         _0x3ce881(0x1ec) +
                         _0x3ce881(0x25a) +
-                        "<div\x20class=\x22box\x22><div><div\x20class=\x22time\x22>%M</div>\x20<span>Mins</span>\x20</div></div>" +
+                        "<div\x20class=\x22box\x22><div><div\x20class=\x22time\x22>%M</div>\x20<span>Phút</span>\x20</div></div>" +
                         _0x3ce881(0x1ff)
                     )
                 );

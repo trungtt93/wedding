@@ -160,7 +160,7 @@ h4,
 h5,
 h6 {
   color: #002642;
-  font-family: "VNILove";
+  font-family: "Muli";
   font-weight: 600;
 }
 
@@ -6153,8 +6153,6 @@ static-hero-s4
   margin-bottom: 30px;
 }
 .wpo-team-section .wpo-team-wrap .wpo-team-item .wpo-team-img {
-  width: 200px;
-  height: 200px;
   margin: 0 auto;
   position: relative;
   overflow: hidden;
@@ -6166,9 +6164,9 @@ static-hero-s4
   top: 5px;
   width: 190px;
   height: 190px;
-  border-radius: 50%;
+
   content: "";
-  border: 1px solid #fff;
+
   z-index: 1;
 }
 .wpo-team-section .wpo-team-wrap .wpo-team-item .wpo-team-img img {
@@ -6900,7 +6898,7 @@ static-hero-s4
 
 /* 6.6 wpo-cta-section-s3 */
 .wpo-cta-section-s3 {
-  background: url(../images/cta/bg-3.jpg) no-repeat center center;
+  background: url(../images/wedding/21.jpg) no-repeat 20% 19%;
 }
 .wpo-cta-section-s3 .wpo-cta-item h2 {
   margin-bottom: 10px;
@@ -14986,4 +14984,13 @@ static-hero-s4
 
 .fz-50{
   font-size: 70px !important;
+}
+.love-font{
+  font-family: "VNILove" !important;
+}
+
+@media (max-width: 767px) {
+  .align-items-center{
+    background: url("../images/slider/123.png") no-repeat;
+  }
 }
