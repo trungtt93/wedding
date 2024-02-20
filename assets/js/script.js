@@ -710,7 +710,7 @@ function _0x2f59(_0xebe2cf, _0x5bc14d) {
                 ],
             }));
         _0x424e87(_0x164425(0x1e5))["length"] &&
-        _0x424e87(_0x164425(0x1e5))["countdown"]("2023/03/19", function (_0x57a66c) {
+        _0x424e87(_0x164425(0x1e5))["countdown"]("2024/03/02", function (_0x57a66c) {
             var _0x3ce881 = _0x164425,
                 _0x4d56df = _0x424e87(this)[_0x3ce881(0x21f)](
                     _0x57a66c["strftime"](
